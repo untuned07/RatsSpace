@@ -271,6 +271,7 @@ h2{
         width: 80vw;
         margin-left: 0;
         font-size: 1rem;
+        text-align: justify;
     }
 
     .imageSecond{
@@ -290,7 +291,8 @@ h2{
 
     .textThird {
         width: 80vw;
-        font-size: 1.3rem;
+        font-size: 1rem;
+        text-align: justify;
     }
 
     .imageThird {
